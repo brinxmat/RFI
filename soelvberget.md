@@ -50,7 +50,7 @@ Tjenestene utvikles etter behov og utformes etter bibliotekenes ønsker.
 
 Økosystemet er utviklet med dette som en grunnleggende prinsipp.
 
-#5.2 5.2 Innspill fra leverandør
+#5.2 Innspill fra leverandør
 
 #5.2.1 Integrasjoner/teknologi/arkitektur
 
@@ -92,7 +92,7 @@ Deichmanske biblioteks datamodell er implementert med tanke på at den skal vær
 
 ##5.2.1.6 Hvilke muligheter ser vi for oss med integrasjon av økonomisystemer? Hvor langt kan dette automatiseres? Alt fra innkjøp av medier til gebyr og erstatningshåndtering, webbasert betaling og mobil-betaling
 
-#Dette må fikses av noen som kjenner slike systemer bedre enn meg…
+I utgangspunkt er alt mulig og dette har en utviklingskostnad — det kan være lurt å samles på én plattform for betaling som håndterer dette via en felles API. Dette kan vi råde dere om.
 
 ##5.2.1.7.  Unicode tegnstøtte. Katalog må håndtere alle tegn og alfabeter
 
