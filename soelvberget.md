@@ -26,7 +26,7 @@ Alle frontend som utvikles er automatisk testet for funksjonalitet samt testet p
 
 Løsningen driftes sentralt eller distribuert — ønskes en sentral løsning, er dette selvføgelig mulig. Ønskes en løsning driftet på norsk jord for å sikre brukernes personvern er dette også mulig.
 
-##5.1.4)  Mulighet for tilpasninger, både sentrale og lokale. Det er viktig for bibliotekene å kunne innovere raskt med nye tjenester og muligheter og få disse integrert og tilpasset i et fremtidig system.
+##5.1.4 Mulighet for tilpasninger, både sentrale og lokale. Det er viktig for bibliotekene å kunne innovere raskt med nye tjenester og muligheter og få disse integrert og tilpasset i et fremtidig system.
 
 Det kan konfigueres, tilpasses og utvikles ulike frontend for de ulike bibliotekene og tjenestene som bruker dataplattformen og andre moduler i økosystemet. Fleksibiliteten kommer ikke med store kostnader og moderne utviklingsteknikker gjør det mulig å ha noe avvikende kodebaser som likevel deler mye av samme kode og disse holdes synkronisert til enhver tid.
 
